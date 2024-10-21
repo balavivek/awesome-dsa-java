@@ -1,4 +1,4 @@
-package awesome.dsa.java.hard;
+package com.awesome.dsa.hard;
 
 public class Hard {
 }

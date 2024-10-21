@@ -1,4 +1,4 @@
-package awesome.dsa.java.medium;
+package com.awesome.dsa.medium;
 
 public class Medium {
 }
