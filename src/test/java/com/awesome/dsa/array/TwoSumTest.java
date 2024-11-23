@@ -1,4 +1,4 @@
-package com.awesome.dsa.easy.array;
+package com.awesome.dsa.array;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;

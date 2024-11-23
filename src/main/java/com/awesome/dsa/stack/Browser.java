@@ -1,4 +1,4 @@
-package com.awesome.concepts.stack;
+package com.awesome.dsa.stack;
 
 import java.util.Stack;
 
